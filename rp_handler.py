@@ -83,7 +83,7 @@ INPUT_SCHEMA = {
         'default': 4
     },
     'prior_steps': {
-        'type': str,
+        'type': int,
         'required': False,
         'default': "5"
     },
